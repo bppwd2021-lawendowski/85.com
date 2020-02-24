@@ -1,2 +1,2 @@
-# personalProj
-This is a repository for my personal project.....
+# My Personal Project
+- [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
