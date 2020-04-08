@@ -1,6 +1,6 @@
-# My Personal Project
+# cash - My Personal Project
 - [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-im going to make a website with the ability to register, login, post, and view the posts of other users.
+im going to make a simple javascript game.
 
-the user will also be able to view other user's profile, register their own account, and track how many likes/dislikes they recieve on a post.
+in this game, the player will be able to eliminate other players by pointing their mouse at an enemy's character, and then clicking to fire a projectile. Once eliminated, an enemy will drop 3 cash, which any player can pick up and use to upgrade their player.
