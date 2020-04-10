@@ -1,3 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
 class Player {
     constructor(gameWidth, gameHeight) {
         //width and height of player
