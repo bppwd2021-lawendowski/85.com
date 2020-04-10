@@ -2,11 +2,12 @@
 var canvas = document.getElementById("gameScreen");
 var ctx = canvas.getContext('2d');
 
-const GAME_WIDTH = 800;
-const GAME_HEIGHT = 500;
+var CanvWidth = 800;
+var CanvHeight = 500;
 
-//clears the canvas of all rectangles
-ctx.clearRect(0, 0, 800, 500);
+ctx.fillStyle = "red";
+ctx.fillRect(20, 20, 100, 100);
 
-//creates a player variable
-var player = new Player(GAME_WIDTH, GAME_HEIGHT);
+const Player = require('./player')
+const player = new Player(CanvWidth, CanvHeight);
+player.draw(ctx);
